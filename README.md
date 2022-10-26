@@ -24,8 +24,8 @@ pip install nb-cli
 
 ### 	现有功能
 
-- [俄罗斯轮盘赌小游戏](./src/plugins/russian roulette/README.MD)
-- [摸鱼人日历推送](./src.plugins/push/README.MD)
+- [俄罗斯轮盘赌小游戏](./game/russian_roulette/README.md)
+- [摸鱼人日历推送](./push/README.md)
 
 ------
 
